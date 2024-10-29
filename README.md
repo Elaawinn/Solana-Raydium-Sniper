@@ -1,4 +1,9 @@
-# How Can I snipe spl token in Raydium?
+# How Can I snipe spl token in Raydium within the 1st block and the 1st second?
+
+# Super Raydium sniper within the first block or first second after pool creation
+
+I have succeeded in sniping within the first block in Raydium using Yellowstone grpc supported by Vibe station.
+
 # Solana Raydium sniper
 
 
